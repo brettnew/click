@@ -1,0 +1,10 @@
+#cemetery-showing, #mom-showing, #sushi-showing {
+  display: none;
+}
+.clickable:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+.clickable{
+  color: #00ccff;
+}
